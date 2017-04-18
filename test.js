@@ -1,1 +1,2 @@
-const iNeedSemicolons = true;
+const iNeedSemicolons = false;
+const iWillHaveThemLaterAnyway = true;

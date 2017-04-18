@@ -1,14 +1,11 @@
 {
-  "name": "semicolonfarm",
+  "name": "Semicolon-Farmer",
   "version": "1.0.0",
   "description": "Collect all your wild semicolons neatly in one single farm!",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node app.js"
   },
   "author": "Eduard Kotkas",
-  "license": "ISC",
-  "dependencies": {
-    "fs": "0.0.1-security"
-  }
+  "license": "ISC"
 }
