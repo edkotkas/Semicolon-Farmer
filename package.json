@@ -4,7 +4,7 @@
   "description": "Collect all your wild semicolons neatly in one single farm!",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
   "author": "Eduard Kotkas",
   "license": "ISC"
