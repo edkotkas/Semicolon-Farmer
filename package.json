@@ -1,7 +1,7 @@
 {
   "name": "Semicolon-Farmer",
   "version": "1.0.0",
-  "description": "Collect all your wild semicolons neatly in one single farm!",
+  "description": "Collect all your wild semicolons neatly in a farm!",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
