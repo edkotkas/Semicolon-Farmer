@@ -1,0 +1,1 @@
+const iNeedSemicolons = true;
