@@ -1,6 +1,6 @@
 {
-  "name": "Semicolon-Farmer",
-  "version": "1.0.0",
+  "name": "semicolon-farmer",
+  "version": "1.0.2",
   "description": "Collect all your wild semicolons neatly in a farm!",
   "main": "app.js",
   "scripts": {
